@@ -1,2 +1,3 @@
 # Homework 5
-1. <br>
+1. (d)<br>
+2. (a)<br>
