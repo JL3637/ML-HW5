@@ -82,7 +82,7 @@ E_in_list = []
 for t in range(10):
     s_id_theta_g = decision_stump(t_arr, u_arr)
     s, id, theta, g = s_id_theta_g[0], s_id_theta_g[1], s_id_theta_g[2], s_id_theta_g[3]
-    # print(g)
+    print(s_id_theta_g)
     print(np.sum(u_arr))
     epsilon = g / np.sum(u_arr)
     scal_factor = math.sqrt((1-epsilon)/epsilon)
