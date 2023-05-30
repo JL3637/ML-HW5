@@ -1,14 +1,24 @@
 # Homework 5
 1. (d)<br>
+   <img src="./Q1.jpg" style="zoom:200%" /><br>
 2. (c)<br>
+   <img src="./Q2.jpg" style="zoom:200%" /><br>
 3. (a)<br>
-4. (e) ?<br>
+   <img src="./Q3.jpg" style="zoom:200%" /><br>
+4. (e)<br>
+   <img src="./Q4.jpg" style="zoom:200%" /><br>
 5. (b)<br>
+   <img src="./Q5.jpg" style="zoom:200%" /><br>
 6. (b)<br>
+   <img src="./Q6.jpg" style="zoom:200%" /><br>
 7. (c)<br>
+   <img src="./Q7.jpg" style="zoom:200%" /><br>
 8. (e)<br>
-9. (d)<br>
-10. (e) ?<br>
+   <img src="./Q8.jpg" style="zoom:200%" /><br>
+9.  (d)<br>
+    <img src="./Q9.jpg" style="zoom:200%" /><br>
+10. (b)<br>
+    <img src="./Q10.jpg" style="zoom:200%" /><br>
 11. (c) 6.309673609961579<br>
 12. (d) [0.011333333333333306, 0.006761904761904747, 0.009619047619047638, 0.014857142857142902, 0.01123809523809527]<br>
 13. (b) [588, 368, 499, 642, 503]<br>
@@ -19,6 +29,8 @@
 18. (c) 0.571611253196931<br>
 19. (a) 0.0<br>
 20. (a) 0.002793296089385475<br>
+
+<div style="page-break-after: always;"></div>
 
 code:<br>
 Q11
